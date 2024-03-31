@@ -1,4 +1,4 @@
-# Project Name
+# Spaceship Titanic - Machine Learning Competition 
 
 ## Commit Guidelines
 
