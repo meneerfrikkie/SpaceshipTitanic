@@ -32,4 +32,7 @@ Use one of the following commit types as a prefix in your commit message:
 ## Contributors
 
 - Muaawiyah Dadabhay (https://github.com/meneerfrikkie)
+- Muhammed Raees Dindar (https://github.com/MRaeesD)
+- Taahir Kolia (https://github.com/TaahirKolia)
+- Irfaan Mia (https://github.com/Irfaan-Mia)
 
