@@ -32,4 +32,4 @@ Makefile
 *.DS_Store
 
 ### Folders ###
-src/catboost_info
+src/catboost_info/
