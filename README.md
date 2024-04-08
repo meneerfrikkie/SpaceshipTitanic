@@ -1,33 +1,52 @@
 # Spaceship Titanic - Machine Learning Competition 
-
-## Commit Guidelines
-
-### 1. Commit Message Format
-
-- Begin each commit message with a capital letter.
-- Use the imperative mood ("Add feature" instead of "Added feature").
+## ELEN4025: Group Project
 
 
-### 2. Commit Types
+## Repository Link
 
-Use one of the following commit types as a prefix in your commit message:
+https://github.com/meneerfrikkie/LLMUnitTestEvaluation
 
-- **Add**: For new features or functionalities.
-- **Update**: For updates or modifications to existing features.
-- **Fix**: For bug fixes.
-- **Remove**: For removal of code, files, or features.
-- **Refactor**: For code refactoring without changing its external behavior.
-- **Docs**: For documentation-related changes.
-- **Style**: For changes that do not affect the code's functionality (e.g., formatting).
-- **Test**: For adding or modifying tests.
-- **Chore**: For changes to the build process, dependencies, or other miscellaneous tasks.
+---
 
-### 3. Additional Guidelines
+## Description
 
-- Keep each commit focused on a single task or change.
-- Use meaningful commit messages that describe the purpose of the change.
-- If the commit addresses an open issue, reference the issue number in the commit message.
+This repository contains a Python Jupyter notebook and files related to the ELEN4025 Group Report. In the notebook, five machine-learning models are employed to predict whether passengers were transported to an alternate dimension, utilizing data frames sourced from Kaggle. The models utilized include _Logistic Regression_, _Random Forest Classification_, _Naïve Bayes_, _XCB Classification_, and _CatBoost Classification_.
 
+Kaggle stands as a prominent data science platform renowned for hosting competitions and challenges in the field. It boasts a vibrant community comprising data scientists, statisticians, and machine learning experts who actively contribute their expertise to various projects.
+
+For the analysis at hand, the Spaceship Titanic dataset available on Kaggle is utilized. The central objective of this study is to determine which passengers were transported to an alternate dimension following a spaceship collision. 
+
+The methodology involves an initial phase of data analysis, followed by feature engineering to facilitate model construction. Subsequently, the models are trained and evaluated using the provided dataset. Ultimately, comprehensive assessments are conducted on all four models to identify the optimal approach for predicting passenger transportation to alternate dimensions.
+
+---
+
+## Files
+
+### `src` Directory
+
+1. `main.ipynb`: The project notebook.
+2. `sample_submission.csv`: Provided by Kaggle.
+3. `submission.csv`: Output file submitted to Kaggle
+3. `results.png`: Top Five Scores.
+4. `bestEntry.png`: Highest Score.
+
+### `data` Directory
+
+1. `test.csv`: Test Data provided by Kaggle. 
+2. `train.csv`: Train Data provided by Kaggle.
+
+---
+
+## Usage
+
+1. **Prerequisites:**
+   - Ensure a Python environment is installed on your system. (Prefarrably Conda)
+     ```
+
+2. **Running the scripts:**
+   - Run `main.ipynb` via the Python kernel.
+   - View generated outputs in `submissions.csv`.
+   - Utilize `main.html` for easy of reading.
 
 ## Contributors
 
