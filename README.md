@@ -41,7 +41,6 @@ The methodology involves an initial phase of data analysis, followed by feature 
 
 1. **Prerequisites:**
    - Ensure a Python environment is installed on your system. (Prefarrably Conda)
-     ```
 
 2. **Running the scripts:**
    - Run `main.ipynb` via the Python kernel.
